@@ -4,6 +4,10 @@
  * Licensed under MIT
  */
 
+/**
+ * Author: wtetsu
+ * Corrector: David
+ */
 export default {
   dictDataEncoding: "Character set of dictionary data：",
   dictDataFormat: "Format of dictionary data：",
